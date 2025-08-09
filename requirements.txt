@@ -3,4 +3,4 @@ pandas
 requests
 beautifulsoup4
 pytz
-playwright
+playwright==1.46.0
