@@ -1,4 +1,4 @@
-# streamlit single-file AFL Betting AI (EV+ & Arbs) — no folders needed
+streamlit single-file AFL Betting AI (EV+ & Arbs) — no folders needed
 import streamlit as st, pandas as pd, requests, datetime, pytz
 
 st.set_page_config(page_title="AFL Betting AI", layout="wide")
